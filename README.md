@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# The React Quiz
+## The react quiz course project made amidst The Ultimate React course by Jonas Schmedtmann
+![localhost_3000_](https://github.com/vaidanshbhardwaj/the-react-quiz/assets/94763871/d0dce252-dc8b-4816-80dd-169708b8d172)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
